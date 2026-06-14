@@ -100,6 +100,22 @@ Concepts Applied
 
 Lessons Learned
 
+Engineering Lesson Learned
+
+During a VLAN configuration activity on a Cisco switching environment, an incorrect configuration command resulted in the existing VLAN assignments on a trunk interface being unintentionally replaced, leaving only the newly configured VLAN active. This caused an unexpected service impact.
+
+The issue was immediately escalated, the previous configuration was restored from a validated backup by the senior engineer, and network services were recovered.
+
+Key Takeaways
+
+- Always verify the effect of configuration commands before applying them.
+- Understand the difference between replacing and appending configuration values.
+- Maintain reliable configuration backups before making changes.
+- Follow change management procedures and validate configurations after implementation.
+- Escalate issues promptly when necessary to minimize downtime.
+
+This experience reinforced the importance of preparation, verification, and disciplined change management in enterprise networking.
+
 Enterprise infrastructure projects require careful planning, validation, and collaboration across multiple technologies. Network migrations, firewall modernization, secure management implementation, and continuous monitoring contribute to improved security, reliability, and service continuity while minimizing operational impact.
 
 ---
