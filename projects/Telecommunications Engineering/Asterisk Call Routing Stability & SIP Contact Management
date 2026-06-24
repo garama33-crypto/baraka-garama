@@ -1,1 +1,24 @@
+ Asterisk Call Routing Stability & SIP Contact Management
+Project focused on diagnosing and resolving call routing inconsistency in an Asterisk PBX environment using standard SIP principles.
+Scope:
 
+Troubleshooting inbound call delivery issues
+SIP contact analysis and endpoint resolution
+Configuration hardening (PJSIP AOR management)
+CLI-based validation and testing
+
+Key Activities:
+
+Identified multiple active SIP contacts causing non-deterministic routing behavior
+Implemented single-contact enforcement using standard Asterisk configuration
+Validated call routing using CLI originate and channel state verification
+Confirmed stable inbound and outbound call behavior
+Developed a health check script to validate system state
+Created backup and recovery procedure for configuration resilience
+
+Outcome:
+
+Deterministic call routing behavior
+Stable endpoint reachability
+Repeatable validation process
+Improved operational reliability
