@@ -25,9 +25,9 @@ Always:
 ##  Reminder
 
 Explain:
-✔ system behavior  
-✔ CLI output  
-✔ observable results  
+ system behavior  
+ CLI output  
+ observable results  
 
 Not:
  abstract wording  
