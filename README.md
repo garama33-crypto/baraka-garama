@@ -76,7 +76,7 @@ Activities documented include:
 
 ---
 
-### 🔹 Infrastructure & Cloud Engineering
+###  Infrastructure & Cloud Engineering
 
 Activities documented include:
 
