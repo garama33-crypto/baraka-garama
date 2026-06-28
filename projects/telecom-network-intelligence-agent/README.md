@@ -41,7 +41,7 @@ Prompt engineering and source selection have a greater impact on agent quality t
 
 ## Status
 
-✅ Working V1
+  Working V1
 
 ### Achievements
 
